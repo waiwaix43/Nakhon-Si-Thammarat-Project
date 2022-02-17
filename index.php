@@ -20,7 +20,7 @@
         text-decoration: none;
       }
       li a:hover {
-        background-color: #111;
+        background-color: white;
       }
     </style>
   </head>
