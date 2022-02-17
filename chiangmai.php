@@ -1,7 +1,7 @@
 <html> 
   <head>
     <body>
-      <table widht="1920" height="1080" align="center">
+      <table widht="820" height="620" align="center">
     <title>Chiang Mai Project</title>
     <style>
       ul {
