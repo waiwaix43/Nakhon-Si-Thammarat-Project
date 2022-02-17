@@ -1,7 +1,7 @@
 <html> 
-  echo"<body>";
-   echo"<center>";
-  <head>   
+  <head>
+    echo"<body>";
+     echo"<center>";
     <title>Chiang Mai Project</title>
     <style>
       ul {
@@ -25,6 +25,8 @@
         background-color: #111;
       }
     </style>
+    echo"</body>";
+   echo"</center>";
   </head>
   <body>
     <ul>
@@ -33,7 +35,5 @@
       <li><a href="#">ข้อมูลอาหารประจำท้องถิ่น</a></li> 
       <li><a href="#">ข้อมูลผู้จัดทำ</a></li> 
     </ul>
-    echo"</body>";
-   echo"</center>";
   </body>
 </html>
