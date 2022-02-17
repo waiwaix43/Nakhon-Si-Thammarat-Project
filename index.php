@@ -30,7 +30,7 @@
       <li><a href="#">แหล่งท่องเที่ยว</a></li> 
       <li><a href="#">ประเพณีและวัฒนธรรม</a></li> 
       <li><a href="#">อาหารประจำท้องถิ่น</a></li> 
-      <li><a href="https://music.youtube.com/watch?v=pIs2DG4zgds&list=RDAMVMEeH5EewCF8A">ผู้จัดทำ</a></li> 
+      <li><a href="#">ผู้จัดทำ</a></li> 
     </ul>
   </body>
 </html>
