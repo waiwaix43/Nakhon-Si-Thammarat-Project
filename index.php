@@ -26,7 +26,7 @@
   </head>
   <body>
     <ul>
-      <li><a href="#">หน้าแรก</a></li>
+      <li><a href="https://lw-58513.herokuapp.com/">หน้าแรก</a></li>
       <li><a href="#">แหล่งท่องเที่ยว</a></li> 
       <li><a href="#">ประเพณีและวัฒนธรรม</a></li> 
       <li><a href="#">อาหารประจำท้องถิ่น</a></li> 
