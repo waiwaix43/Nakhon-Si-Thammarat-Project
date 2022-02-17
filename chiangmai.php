@@ -1,7 +1,5 @@
 <html> 
-  <head>
-    <body>
-      <table widht="820" height="620" align="center">
+  <head>   
     <title>Chiang Mai Project</title>
     <style>
       ul {
@@ -24,8 +22,6 @@
       li a:hover {
         background-color: #111;
       }
-       </table>
-      <body>
     </style>
   </head>
   <body>
