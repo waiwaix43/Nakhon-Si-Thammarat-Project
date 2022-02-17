@@ -1,4 +1,6 @@
 <html> 
+  echo"<body>";
+   echo"<center>";
   <head>   
     <title>Chiang Mai Project</title>
     <style>
@@ -31,5 +33,7 @@
       <li><a href="#">ข้อมูลอาหารประจำท้องถิ่น</a></li> 
       <li><a href="#">ข้อมูลผู้จัดทำ</a></li> 
     </ul>
+    echo"</body>";
+   echo"</center>";
   </body>
 </html>
