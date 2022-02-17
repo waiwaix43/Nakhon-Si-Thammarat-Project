@@ -9,7 +9,7 @@
     <title>Chiang Mai Project</title>
     <style>
       #header{
-        height: 160px;
+        height: 80px;
         background-color: orange;
       }
       #sidebar{
