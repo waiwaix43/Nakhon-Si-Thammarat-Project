@@ -1,11 +1,10 @@
 <html> 
   <head>
-    
+    <td>
+      <img src="../picture/<?=$result["Picture"];?>"width="150" height="150"> />
+    </td>
     <title>Chiang Mai Project</title>
     <style>
-      
-      echo "<img src=$arr[pic] ", "width=1920,height=1080 />";
-      
       ul {
         list-style-type: none;
         margin: 0;
