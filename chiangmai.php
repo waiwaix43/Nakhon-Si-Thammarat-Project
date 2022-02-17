@@ -1,7 +1,5 @@
 <html> 
   <head>
-    echo"<body>";
-     echo"<center>";
     <title>Chiang Mai Project</title>
     <style>
       ul {
@@ -25,8 +23,6 @@
         background-color: #111;
       }
     </style>
-    echo"</body>";
-   echo"</center>";
   </head>
   <body>
     <ul>
