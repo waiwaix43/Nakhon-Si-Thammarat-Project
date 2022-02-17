@@ -1,5 +1,9 @@
-<html>
+<html> 
+  
+  echo "<img src=$arr[pic] ", "width=1920,height=1080 />";
+  
   <head>
+    
     <title>Chiang Mai Project</title>
     <style>
       ul {
