@@ -26,9 +26,10 @@
   </head>
   <body>
     <ul>
-      <li><a href="#">Coffee</a></li> 
-      <li><a href="#">Tea</a></li> 
-      <li><a href="#">Milk</a></li> 
+      <li><a href="#">ข้อมูลแหล่งท่องเที่ยว</a></li> 
+      <li><a href="#">ข้อมูลประเพณีและวัฒนธรรม</a></li> 
+      <li><a href="#">ข้อมูลอาหารประจำท้องถิ่น</a></li> 
+      <li><a href="#">ข้อมูลผู้จัดทำ</a></li> 
     </ul>
   </body>
 </html>
