@@ -1,7 +1,7 @@
 <html> 
   <head>
-    <td>
-      <img src="../picture/<?=$result["Picture"];?>"width="150" height="150"> />
+    <body>
+      <table widht="100%" height="100%" align="center">
     <title>Chiang Mai Project</title>
     <style>
       ul {
@@ -24,8 +24,9 @@
       li a:hover {
         background-color: #111;
       }
+       </table>
+      <body>
     </style>
-   </td>
   </head>
   <body>
     <ul>
