@@ -27,10 +27,10 @@
   <body>
     <ul>
       <li><a href="https://lw-58513.herokuapp.com/">หน้าแรก</a></li>
-      <li><a href="#">แหล่งท่องเที่ยว</a></li> 
-      <li><a href="#">ประเพณีและวัฒนธรรม</a></li> 
-      <li><a href="#">อาหารประจำท้องถิ่น</a></li> 
-      <li><a href="#">ผู้จัดทำ</a></li> 
+      <li><a href="https://lw-58513.herokuapp.com/page=1.php">แหล่งท่องเที่ยว</a></li> 
+      <li><a href="https://lw-58513.herokuapp.com/page=2.php">ประเพณีและวัฒนธรรม</a></li> 
+      <li><a href="https://lw-58513.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
+      <li><a href="https://lw-58513.herokuapp.com/page=4.php">ผู้จัดทำ</a></li> 
     </ul>
   </body>
 </html>
