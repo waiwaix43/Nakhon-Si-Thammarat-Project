@@ -1,4 +1,12 @@
 <!doctype html>
+
+<html>
+  <head>
+   <body background="white">
+   </body>
+  </head> 
+</html>
+
 <html lang="en">
   <head>
     <!-- Required meta tags -->
