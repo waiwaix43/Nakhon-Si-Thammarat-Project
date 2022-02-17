@@ -30,7 +30,7 @@
         list-style-type: none;
         margin: 0;
         padding: 0;
-        width: 100%;
+        width: 300%;
         background-color: #f1f1f1;
       }
       li a {
