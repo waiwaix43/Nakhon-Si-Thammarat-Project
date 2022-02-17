@@ -2,7 +2,6 @@
   <head>
     <td>
       <img src="../picture/<?=$result["Picture"];?>"width="150" height="150"> />
-    </td>
     <title>Chiang Mai Project</title>
     <style>
       ul {
@@ -26,6 +25,7 @@
         background-color: #111;
       }
     </style>
+   </td>
   </head>
   <body>
     <ul>
