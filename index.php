@@ -1,40 +1,3 @@
-<html> 
-  <head>
-    <title>Chiang Mai Project</title>
-    <style>
-      ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-        background-color: #333;
-      }
-      li {
-        float: left;
-      }
-      li a {
-        display: block;
-        color: white;
-        text-align: center;
-        padding: 12px 16px;
-        text-decoration: none;
-      }
-      li a:hover {
-        background-color: #111;
-      }
-    </style>
-  </head>
-  <body>
-    <ul>
-      <li><a href="https://lw-58513.herokuapp.com/">หน้าแรก</a></li>
-      <li><a href="https://lw-58513.herokuapp.com/page=1.php">แหล่งท่องเที่ยว</a></li> 
-      <li><a href="https://lw-58513.herokuapp.com/page=2.php">ประเพณีและวัฒนธรรม</a></li> 
-      <li><a href="https://lw-58513.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
-      <li><a href="https://lw-58513.herokuapp.com/page=4.php">ผู้จัดทำ</a></li> 
-    </ul>
-  </body>
-</html>
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -46,37 +9,71 @@
     <title>Hello, world!</title>
     
     <style>
-      #box1{
-        height: 50px;
-        background-color: red;
+      #header{
+        height: 160px;
+        background-color: orange;
       }
-     #box2{
-        height: 50px;
+      #sidebar{
+        height: 450px;
         background-color: green;
+        padding: 0px;
       }
-      #box3{
-        height: 50px;
-        background-color: blue;
+      #content{
+        height: 450px;
+        background-color: gray;
       }
-    </style>  
+      #footer{
+        height: 200px;
+        background-color: pink;
+      }
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        background-color: #f1f1f1;
+      }
+      li a {
+        display: block;
+        color: #000;
+        padding: 8px 16px;
+        text-decoration: none;
+      }
+      /* Change the link color on hover */
+      li a:hover {
+        background-color: #555;
+        color: white;
+      }
+    </style>
     
   </head>
-  <body>
-    
-    <div class="container">
+  <body> 
+    <div class="container"> <!-- คอนเทนเนอร์ -->
       <div class="row">
-        <div class="col" id="box1">
-          Column
-        </div>
-        <div class="col" id="box2">
-          Column
-        </div>
-        <div class="col" id="box3">
-          Column
+        <div class="col-12" id="header"> <!-- เฮดเดอร์ -->
+          <h1>Header</h1>
         </div>
       </div>
-    </div>
-    
+      <div class="row">
+        <div class="col-3" id="sidebar"> <!-- ไซด์บาร์ -->
+          <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#about">About</a></li>
+          </ul>
+        </div>
+        <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
+          <h1>Content</h1>
+        </div>
+      </div>
+       <div class="row">
+        <div class="col-12" id="footer"> <!-- ฟุตเตอร์ -->
+          <h1>Footer</h1>
+        </div>
+      </div>
+    </div>  
+    <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
   </body>
 </html>
