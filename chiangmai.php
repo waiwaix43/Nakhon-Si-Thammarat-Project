@@ -16,7 +16,7 @@
         display: block;
         color: white;
         text-align: center;
-        padding: 140px 160px;
+        padding: 9px 16px;
         text-decoration: none;
       }
       li a:hover {
