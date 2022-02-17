@@ -10,7 +10,7 @@
     
     <style>
       #header{
-        height: 160px;
+        height: 60px;
         background-color: orange;
       }
       #sidebar{
