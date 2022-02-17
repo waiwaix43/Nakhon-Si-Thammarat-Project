@@ -1,6 +1,6 @@
 <html>
  <head>
-   <body background="#F5F5F5">
+   <body background="red">
    </body>
  </head> 
 </html>     
