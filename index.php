@@ -2,7 +2,7 @@
 
 <html>
   <head>
-   <body background="white">
+   <body background="#F5F5F5">
    </body>
   </head> 
 </html>
