@@ -14,7 +14,7 @@
       }
       li a {
         display: block;
-        color: red;
+        color: white;
         text-align: center;
         padding: 12px 16px;
         text-decoration: none;
