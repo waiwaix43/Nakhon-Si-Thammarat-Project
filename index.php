@@ -1,10 +1,3 @@
-<html>
- <head>
-   <body background="red">
-   </body>
- </head> 
-</html>     
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -27,11 +20,11 @@
       }
       #content{
         height: 450px;
-        background-color: gray;
+        background-color: #F5F5F5;
       }
       #footer{
         height: 200px;
-        background-color: pink;
+        background-color: #F5F5F5;
       }
       ul {
         list-style-type: none;
