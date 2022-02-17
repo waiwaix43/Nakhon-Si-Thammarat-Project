@@ -1,7 +1,4 @@
 <html> 
-  <head>
-    <body>
-   <img src="imgfile.jpg" alt="Image" style="width:500px;height:600px;">
   <head>   
     <title>Chiang Mai Project</title>
     <style>
@@ -34,6 +31,4 @@
       <li><a href="#">Milk</a></li> 
     </ul>
   </body>
-  </body>
- </head>
 </html>
