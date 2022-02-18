@@ -72,7 +72,139 @@
              <img src="map.png">
            </td> 
           </tr>
-         </table>
+         </table>         
+          <h4>
+            การปกครองส่วนภูมิภาค
+          </h4>
+          <table>
+            <tbody>
+              <tr valign ="top">
+          <td>
+            <ol>
+              <li>
+              <h5>
+                อำเภอเมืองนครศรีธรรมราช
+              </h5>
+                </li>
+              <li>
+              <h5>
+                อำเภอพรหมคีรี
+              </h5>
+                </li>
+              <li>
+              <h5>
+                อำเภอลานสกา
+              </h5>
+              </li>
+              <li>
+              <h5>
+                อำเภอฉวาง
+              </h5>
+                </li>
+              <li>    
+              <h5>
+                อำเภอพิปูน
+              </h5>
+                </li>
+                <li>
+              <h5>
+                อำเภอเชียรใหญ่
+              </h5>
+                    </li>
+              <li>  
+              <h5>
+                อำเภอชะอวด
+              </h5>
+                  </li>
+              <li>  
+              <h5>
+                อำเภอท่าศาลา
+              </h5>
+                  </li>
+              <li>  
+              <h5>
+                อำเภอทุ่งสง
+              </h5>
+                  </li>
+              <li>  
+              <h5>
+                อำเภอนาบอน
+              </h5>
+                  </li>
+              <li>  
+              <h5>
+                อำเภอทุ่งใหญ่
+              </h5>
+                  </li>
+              <li>  
+              <h5>
+                อำเภอปากพนัง
+              </h5>
+                  </li>
+            </ol>
+      </td>
+      <td>
+            <ol start="13">
+                   <li>
+              <h5>
+                อำเภอร่อนพิบูลย์
+              </h5>
+                </li>
+              <li>
+              <h5>
+                อำเภอสิชล
+              </h5>
+                </li>
+              <li>
+              <h5>
+                อำเภอขนอม
+              </h5>
+              </li>
+              <li>
+              <h5>
+                อำเภอหัวไทร
+              </h5>
+                </li>
+              <li>    
+              <h5>
+                อำเภอบางขัน
+              </h5>
+                </li>
+                <li>
+              <h5>
+                อำเภอถ้ำพรรณรา
+              </h5>
+                    </li>
+              <li>  
+              <h5>
+                อำเภอจุฬาภรณ์
+              </h5>
+                  </li>
+              <li>  
+              <h5>
+                อำเภอพระพรหม
+              </h5>
+                  </li>
+              <li>  
+              <h5>
+                อำเภอนบพิตำ
+              </h5>
+                  </li>
+              <li>  
+              <h5>
+                ออำเภอช้างกลาง
+              </h5>
+                  </li>
+              <li>  
+              <h5>
+                ออำเภอเฉลิมพระเกียรติ
+              </h5>
+                  </li>
+            </ol>
+      </td>
+              </tr>
+            </tbody>
+      </table>
        </div>
         <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
          <h4>
@@ -243,13 +375,12 @@
               </tr>
             </tbody>
       </table>
-        </div>
+
       </div>
        <div class="row">
         <div class="col-12" id="footer"> <!-- ฟุตเตอร์ -->
           <h1></h1>
-        </div>
-      </div>
+
     </div>  
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
