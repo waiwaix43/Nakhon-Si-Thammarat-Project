@@ -11,7 +11,7 @@
     <style>
       #header{
         height: 60px;
-        background-color: #66CDAA;
+        background-color: #F4A460;
       }
       #sidebar{
         height: 900px;
