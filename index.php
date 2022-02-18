@@ -66,7 +66,7 @@
           <h6 align="center">
             แผนที่จังหวัด
           </h6>
-         <table widht="300" height="300" align="center">
+         <table widht="100%" height="100%" align="center">
           <tr>
            <td>
              <img src="mapC.png">
