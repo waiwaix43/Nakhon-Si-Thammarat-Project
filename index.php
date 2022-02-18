@@ -119,41 +119,41 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;การปกครองแบ่งออกเป็น 23 อำเภอ 170 ตำบล 1,428 หมู่บ้าน
           </h5> 
       <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;1อำเภอเมืองนครศรีธรรมราช&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2อำเภอพรหมคีรี
+            &nbsp;&nbsp;&nbsp;&nbsp;1อำเภอเมืองนครศรีธรรมราช<p class="indent">2อำเภอพรหมคีรี</p>
           </h5>
       <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;3อำเภอลานสกา&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4อำเภอฉวาง 
+            &nbsp;&nbsp;&nbsp;&nbsp;3อำเภอลานสกา<p class="indent">4อำเภอฉวาง </p>
           </h5>
       <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;5อำเภอพิปูน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6อำเภอเชียรใหญ่
+            &nbsp;&nbsp;&nbsp;&nbsp;5อำเภอพิปูน<p class="indent">6อำเภอเชียรใหญ่</p>
           </h5>
       <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;7อำเภอชะอวด&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8อำเภอท่าศาลา
+            &nbsp;&nbsp;&nbsp;&nbsp;7อำเภอชะอวด<p class="indent">8อำเภอท่าศาลา</p>
           </h5>
       <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;9อำเภอทุ่งสง&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10อำเภอนาบอน
+            &nbsp;&nbsp;&nbsp;&nbsp;9อำเภอทุ่งสง<p class="indent">10อำเภอนาบอน</p>
           </h5>
       <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;11อำเภอทุ่งใหญ่&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12อำเภอปากพนัง
+            &nbsp;&nbsp;&nbsp;&nbsp;11อำเภอทุ่งใหญ่<p class="indent">12อำเภอปากพนัง</p>
           </h5>
       <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;13อำเภอร่อนพิบูลย์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14อำเภอสิชล
+            &nbsp;&nbsp;&nbsp;&nbsp;13อำเภอร่อนพิบูลย์<p class="indent">14อำเภอสิชล</p>
           </h5>
       <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;15อำเภอขนอม&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16อำเภอหัวไทร
+            &nbsp;&nbsp;&nbsp;&nbsp;15อำเภอขนอม<p class="indent">16อำเภอหัวไทร</p>
           </h5>
       <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;17อำเภอบางขัน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18อำเภอถ้ำพรรณรา
+            &nbsp;&nbsp;&nbsp;&nbsp;17อำเภอบางขัน<p class="indent">18อำเภอถ้ำพรรณรา</p>
           </h5>
       <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;19อำเภอจุฬาภรณ์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20อำเภอพระพรหม
+            &nbsp;&nbsp;&nbsp;&nbsp;19อำเภอจุฬาภรณ์<p class="indent">20อำเภอพระพรหม</p>
           </h5>
       <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;21อำเภอนบพิตำ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22อำเภอช้างกลาง
+            &nbsp;&nbsp;&nbsp;&nbsp;21อำเภอนบพิตำ<p class="indent">22อำเภอช้างกลาง</p>
           </h5>
       <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;23อำเภอเฉลิมพระเกียรติ
-      </h5>
+            &nbsp;&nbsp;&nbsp;&nbsp;23อำเภอเฉลิมพระเกียรติ</p>
+          </h5>
         </div>
       </div>
        <div class="row">
