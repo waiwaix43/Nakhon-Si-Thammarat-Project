@@ -88,7 +88,7 @@
       </div>
        <div class="row">
         <div class="col-12" id="footer"> <!-- ฟุตเตอร์ -->
-          <h1>Footer</h1>
+          <h1></h1>
         </div>
       </div>
     </div>  
