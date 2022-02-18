@@ -116,43 +116,43 @@
             การปกครองส่วนภูมิภาค
           </h4>
           <h5>
-            การปกครองแบ่งออกเป็น 23 อำเภอ 170 ตำบล 1,428 หมู่บ้าน
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;การปกครองแบ่งออกเป็น 23 อำเภอ 170 ตำบล 1,428 หมู่บ้าน
           </h5> 
       <h5>
-            1อำเภอเมืองนครศรีธรรมราช        2อำเภอพรหมคีรี
+            &nbsp;&nbsp;&nbsp;&nbsp;1อำเภอเมืองนครศรีธรรมราช&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2อำเภอพรหมคีรี
           </h5>
       <h5>
-            3อำเภอลานสกา                 4อำเภอฉวาง 
+            &nbsp;&nbsp;&nbsp;&nbsp;3อำเภอลานสกา&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4อำเภอฉวาง 
           </h5>
       <h5>
-            5อำเภอพิปูน                    6อำเภอเชียรใหญ่
+            &nbsp;&nbsp;&nbsp;&nbsp;5อำเภอพิปูน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6อำเภอเชียรใหญ่
           </h5>
       <h5>
-            7อำเภอชะอวด                   8อำเภอท่าศาลา
+            &nbsp;&nbsp;&nbsp;&nbsp;7อำเภอชะอวด&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8อำเภอท่าศาลา
           </h5>
       <h5>
-            9อำเภอทุ่งสง                    10อำเภอนาบอน
+            &nbsp;&nbsp;&nbsp;&nbsp;9อำเภอทุ่งสง&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10อำเภอนาบอน
           </h5>
       <h5>
-            11อำเภอทุ่งใหญ่                  12อำเภอปากพนัง
+            &nbsp;&nbsp;&nbsp;&nbsp;11อำเภอทุ่งใหญ่&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12อำเภอปากพนัง
           </h5>
       <h5>
-            13อำเภอร่อนพิบูลย์                14อำเภอสิชล
+            &nbsp;&nbsp;&nbsp;&nbsp;13อำเภอร่อนพิบูลย์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14อำเภอสิชล
           </h5>
       <h5>
-            15อำเภอขนอม                   16อำเภอหัวไทร
+            &nbsp;&nbsp;&nbsp;&nbsp;15อำเภอขนอม&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16อำเภอหัวไทร
           </h5>
       <h5>
-            17อำเภอบางขัน                  18อำเภอถ้ำพรรณรา
+            &nbsp;&nbsp;&nbsp;&nbsp;17อำเภอบางขัน&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18อำเภอถ้ำพรรณรา
           </h5>
       <h5>
-            19อำเภอจุฬาภรณ์                 20อำเภอพระพรหม
+            &nbsp;&nbsp;&nbsp;&nbsp;19อำเภอจุฬาภรณ์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20อำเภอพระพรหม
           </h5>
       <h5>
-            21อำเภอนบพิตำ                  22อำเภอช้างกลาง
+            &nbsp;&nbsp;&nbsp;&nbsp;21อำเภอนบพิตำ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22อำเภอช้างกลาง
           </h5>
       <h5>
-            23อำเภอเฉลิมพระเกียรติ
+            &nbsp;&nbsp;&nbsp;&nbsp;23อำเภอเฉลิมพระเกียรติ
       </h5>
         </div>
       </div>
