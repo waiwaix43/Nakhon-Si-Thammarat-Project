@@ -63,12 +63,12 @@
             <li><a href="https://lw-58513.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
             <li><a href="https://lw-58513.herokuapp.com/page=4.php">ผู้จัดทำ</a></li>
           </ul>
+         <table widht="300" height="800" align="center">
+          <tr>
+           <td></td>
+          </tr>
+         </table>
         </div>
-       <table widht="300" height="800" align="center">
-        <tr>
-         <td></td>
-        </tr>
-       </table>
         <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
         <br>
          <h4>
