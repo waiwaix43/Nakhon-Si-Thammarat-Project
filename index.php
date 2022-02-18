@@ -63,11 +63,9 @@
             <li><a href="https://lw-58513.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
             <li><a href="https://lw-58513.herokuapp.com/page=4.php">ผู้จัดทำ</a></li>
           </ul>
-         <br>
           <h6>
-            แผนที่จังหวัด
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;แผนที่จังหวัด
           </h6>
-         </br>
          <table widht="300" height="561" align="center">
           <tr>
            <td>
