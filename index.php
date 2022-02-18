@@ -65,7 +65,9 @@
           </ul>
          <table widht="300" height="800" align="center">
           <tr>
-           <td></td>
+           <td>
+             <img src="300px-Amphoe_Chiang_Mai.svg.png">
+           </td>
           </tr>
          </table>
         </div>
