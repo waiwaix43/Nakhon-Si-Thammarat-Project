@@ -66,7 +66,7 @@
           <h6 align="center">
             แผนที่จังหวัด
           </h6>
-         <table widht="300" height="561" align="center">
+         <table widht="mapC.png" align="center">
           <tr>
            <td>
              <img src="300px-Amphoe_Chiang_Mai.svg.png">
