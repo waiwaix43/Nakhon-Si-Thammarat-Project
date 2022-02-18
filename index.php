@@ -63,9 +63,9 @@
             <li><a href="https://lw-58513.herokuapp.com/page=2.php">ประเพณีและวัฒนธรรม</a></li> 
             <li><a href="https://lw-58513.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
             <li><a href="https://lw-58513.herokuapp.com/page=4.php">ผู้จัดทำ</a></li>
-          </ul>
-          <li><a href="https://www.google.com/maps/place/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A/@8.5822981,99.2249105,9z/data=!3m1!4b1!4m5!3m4!1s0x30530115a2a6568b:0x34e30843bc5f02f2!8m2!3d8.4303975!4d99.9631219?hl=th">title=<h6 align="center">แผนที่จังหวัด</h6></a></li>
           
+          <li><a href="https://www.google.com/maps/place/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A/@8.5822981,99.2249105,9z/data=!3m1!4b1!4m5!3m4!1s0x30530115a2a6568b:0x34e30843bc5f02f2!8m2!3d8.4303975!4d99.9631219?hl=th" title=แผนที่จังหวัด><h6 align="center">แผนที่จังหวัด</h6></a></li>
+          </ul>
          <table widht="300" height="400" align="center">
           <tr>
            <td>
