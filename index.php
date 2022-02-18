@@ -66,10 +66,10 @@
           <h6 align="center">
             แผนที่จังหวัด
           </h6>
-         <table widht="300" height="800" align="center">
+         <table widht="300" height="400" align="center">
           <tr>
            <td>
-             <img src="mapC.png">
+             <img src="Amphoe_Nakhon_Si_Thammarat.svg">
            </td> 
           </tr>
          </table>
