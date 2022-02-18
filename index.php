@@ -72,8 +72,9 @@
              <img src="map.png">
            </td> 
           </tr>
-         </table>         
-          <h6>
+         </table> 
+          <br>
+          <h6 align="center">
             การปกครองส่วนภูมิภาค
           </h6>
           <table>
