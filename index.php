@@ -11,7 +11,7 @@
     <style>
       #header{
         height: 60px;
-        background-color: orange;
+        background-color: #FF4500;
       }
       #sidebar{
         height: 900px;
@@ -24,7 +24,7 @@
       }
       #footer{
         height: 200px;
-        background-color: #F5F5F5;
+        background-color: #DCDCDC;
       }
       ul {
         list-style-type: none;
