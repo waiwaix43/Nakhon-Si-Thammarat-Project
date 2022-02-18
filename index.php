@@ -10,7 +10,7 @@
     
     <style>
       #header{
-        height: 60px;
+        height: 120px;
         background-color: #FFA500;
       }
       #sidebar{
