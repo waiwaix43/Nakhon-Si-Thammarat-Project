@@ -69,7 +69,7 @@
          <table widht="300" height="400" align="center">
           <tr>
            <td>
-             <img src="Amphoe_Nakhon_Si_Thammarat.svg">
+             <img src="map.png">
            </td> 
           </tr>
          </table>
