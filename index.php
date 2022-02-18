@@ -54,16 +54,20 @@
           <h1>จังหวัดเชียงใหม่</h1>
         </div>
       </div>
-      <div class="row">
-        <div class="col-3" id="sidebar"> <!-- ไซด์บาร์ -->
-          <ul>
-            <li><a href="https://lw-58513.herokuapp.com/">หน้าแรก</a></li>
-            <li><a href="https://lw-58513.herokuapp.com/page=1.php">แหล่งท่องเที่ยว</a></li> 
-            <li><a href="https://lw-58513.herokuapp.com/page=2.php">ประเพณีและวัฒนธรรม</a></li> 
-            <li><a href="https://lw-58513.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
-            <li><a href="https://lw-58513.herokuapp.com/page=4.php">ผู้จัดทำ</a></li>
-          </ul>
-        </div>
+    <tr>
+      <td>
+       <div class="row">
+         <div class="col-3" id="sidebar"> <!-- ไซด์บาร์ -->
+           <ul>
+             <li><a href="https://lw-58513.herokuapp.com/">หน้าแรก</a></li>
+             <li><a href="https://lw-58513.herokuapp.com/page=1.php">แหล่งท่องเที่ยว</a></li> 
+             <li><a href="https://lw-58513.herokuapp.com/page=2.php">ประเพณีและวัฒนธรรม</a></li> 
+             <li><a href="https://lw-58513.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
+             <li><a href="https://lw-58513.herokuapp.com/page=4.php">ผู้จัดทำ</a></li>
+           </ul>
+         </div>
+        </td>
+      </tr> 
         <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
           <h5>
             เป็นจังหวัดหนึ่งทางภาคเหนือของประเทศไทย ครอบคลุมพื้นที่ประมาณ 20,107 ตารางกิโลเมตร ซึ่งใหญ่เป็นอันดับ 2 ของประเทศ มีประชากรราว 1.76 ล้านคน มากเป็นอันดับ 5 ของประเทศ เชียงใหม่แบ่งการปกครองออกเป็น 25 อำเภอ โดยมีอำเภอเมืองเชียงใหม่เป็นศูนย์กลางของจังหวัด เมื่อ พ.ศ. 2552 มีการจัดตั้งอำเภอกัลยาณิวัฒนาเป็นอำเภอลำดับที่ 25 ของจังหวัด และลำดับที่ 878 ของประเทศ ซึ่งเป็นอำเภอล่าสุดของไทย
