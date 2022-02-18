@@ -14,12 +14,12 @@
         background-color: #FFA500;
       }
       #sidebar{
-        height: 900px;
+        height: 1800px;
         background-color: #f1f1f1;
         padding: 0px;
       }
       #content{
-        height: 900px;
+        height: 1800px;
         background-color: #F5F5F5;
       }
       #footer{
