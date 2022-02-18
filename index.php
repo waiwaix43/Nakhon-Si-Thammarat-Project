@@ -52,6 +52,7 @@
       <div class="row">
         <div class="col-12" id="header"> <!-- เฮดเดอร์ -->
           <h1>จังหวัดนครศรีธรรมราช</h1>
+          <h3>Nakhon Si Thammarat</h3>
         </div>
       </div>
       <div class="row">
