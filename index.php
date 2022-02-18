@@ -1,5 +1,3 @@
- 
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -66,7 +64,7 @@
             <li><a href="https://lw-58513.herokuapp.com/page=4.php">ผู้จัดทำ</a></li>
           </ul>
         </div>
-       <table widht="100%" height="100%" align="center">
+       <table widht="300" height="800" align="center">
         <tr>
          <td></td>
         </tr>
