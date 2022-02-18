@@ -65,12 +65,10 @@
           </ul>
          <table widht="300" height="800" align="center">
           <tr>
-           <td>
              <img src="300px-Amphoe_Chiang_Mai.svg.png">
-           </td>
           </tr>
          </table>
-        </div>
+       </div>
         <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
         <br>
          <h4>
