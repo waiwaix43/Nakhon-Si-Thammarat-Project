@@ -21,8 +21,6 @@
         height: 1800px;
         background-color: #F5F5F5;
       }
-
-      }
       ul {
         list-style-type: none;
         margin: 0;
