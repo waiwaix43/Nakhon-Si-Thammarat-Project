@@ -86,7 +86,7 @@
               <table widht="500" height="300" align="center">
           <tr>
            <td>
-             <img src="ปข.png">
+             <img src="ปช.png">
            </td> 
           </tr>
          </table><br>
