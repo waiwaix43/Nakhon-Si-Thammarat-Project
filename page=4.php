@@ -14,12 +14,12 @@
         background-color: #FFA500;
       }
       #sidebar{
-        height: 1800px;
+        height: 3000px;
         background-color: #f1f1f1;
         padding: 0px;
       }
       #content{
-        height: 1800px;
+        height: 3000px;
         background-color: #F5F5F5;
       }
       #footer{
@@ -66,6 +66,74 @@
           </ul>
        </div>
         <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
+        <h5>
+          ที่เที่ยวนครศรีธรรมราช
+          </h5><br>
+          <h5>
+            1.นายธีรพัฒน์ คำมา ม.5/13 เลขที่ 6
+          </h5><br>
+          <table widht="500" height="300" align="center">
+          <tr>
+           <td>
+             <img src="ธร.png">
+           </td> 
+          </tr>
+         </table><br>
+          
+          <h5>
+            2.นายปิยโชติ จันทร์สุริยะ ม.5/13 เลขที่ 7
+          </h5><br>
+              <table widht="500" height="300" align="center">
+          <tr>
+           <td>
+             <img src="ปข.png">
+           </td> 
+          </tr>
+         </table><br>
+          
+          <h5>
+            3.นายพีรณัฐ อุตราชา ม.5/13 เลขที่ 8
+            </h5><br>
+              <table widht="500" height="300" align="center">
+          <tr>
+           <td>
+             <img src="พร.png">
+           </td> 
+          </tr>
+         </table><br>
+         
+          <h5>
+            4.นายศุภโชค ขจรศักดา ม.5/13 เลขที่ 9
+          </h5><br>
+              <table widht="500" height="300" align="center">
+          <tr>
+           <td>
+             <img src="ชช.png">
+           </td> 
+          </tr>
+         </table><br>
+         
+          <h5>
+            5.นายสารัช สารีคำ ม.5/13 เลขที่ 10
+          </h5><br>
+              <table widht="500" height="300" align="center">
+          <tr>
+           <td>
+             <img src="สร.png">
+           </td> 
+          </tr>
+         </table><br>
+          
+           <h5>
+            6.นายชนาเดช กุลกรอม ม.5/13 เลขที่ 11
+          </h5><br>
+              <table widht="500" height="300" align="center">
+          <tr>
+           <td>
+             <img src="ชน.png">
+           </td> 
+          </tr>
+         </table><br>
          
         </div>
       </div>
