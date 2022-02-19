@@ -19,7 +19,7 @@
         padding: 0px;
       }
       #content{
-        height: 1800px;
+        height: 0px;
         background-color: #F5F5F5;
       }
       ul {
