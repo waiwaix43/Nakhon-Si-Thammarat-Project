@@ -14,7 +14,6 @@
         background-color: #FFA500;
       }
       #sidebar{
-        height: 3000px;
         background-color: #f1f1f1;
         padding: 0px;
       }
@@ -22,10 +21,7 @@
         height: 3000px;
         background-color: #F5F5F5;
       }
-      #footer{
-        height: 200px;
-        background-color: #DCDCDC;
-      }
+
       ul {
         list-style-type: none;
         margin: 0;
@@ -135,13 +131,7 @@
             กำแพงเมืองเก่า เป็น กำแพงเมืองที่เคยปกป้องเมืองนครศรีธรรมราชจากข้าศึก เป็นโบราณสถานที่สำคัญของจังหวัดแสดงถึงความเก่าแก่ ความแข็งแกร่ง ความเจริญรุ่งเรือง และประวัติศาสตร์อันยาวนาน ปัจจุบันได้รับการบูรณะใหม่ให้แข็งแรงและสวยงาม เพื่อพัฒนาเป็นอีก 1 สถานที่ท่องเที่ยวทางประวัติศาสตร์อันทรงคุณค่า มีลักษณะเป็นสี่เหลี่ยมผืนผ้า มีที่ตั้งอยู่หลายจุดด้วยกัน แต่ที่เหลือให้ชม คือ กำแพงเมืองด้านทิศเหนือ อยู่ริมคลอง หน้าเมือง ถนนมุมป้อม
           </h5>
         </div>
-      </div>
-       <div class="row">
-        <div class="col-12" id="footer"> <!-- ฟุตเตอร์ -->
-          <h1></h1>
-        </div>
-      </div>
-    </div>  
+
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
   </body>
