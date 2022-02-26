@@ -200,6 +200,14 @@
               </tr>
             </tbody>
       </table>
+           <br>
+          <h5>
+            ประชากร
+          </h5>
+          <br>
+          <h5>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ประชากร นครศรีธรรมราช มีประมาณ 1.56 ล้าน มีรายได้เฉลี่ยต่อคนต่อปี 45,598 บาท
+          </h5>
       </div>
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
