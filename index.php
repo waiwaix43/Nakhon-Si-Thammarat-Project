@@ -112,7 +112,7 @@
           <h6 align="center">
             การปกครองส่วนภูมิภาค
           </h6>
-          <table>
+          <table align="center">
             <tbody>
               <tr valign ="top">
           <td>
