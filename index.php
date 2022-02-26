@@ -44,9 +44,9 @@
     
   </head>
   <body> 
-    <div class="container"> <!-- คอนเทนเนอร์ -->
+    <div class="container">
       <div class="row">
-        <div class="col-12" id="header"> <!-- เฮดเดอร์ -->
+        <div class="col-12" id="header">
           <h1>จังหวัดนครศรีธรรมราช</h1>
           <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nakhon Si Thammarat</h3>
         </div>
@@ -59,17 +59,56 @@
             <li><a href="https://lw-58513.herokuapp.com/page=2.php">ประเพณีและวัฒนธรรม</a></li> 
             <li><a href="https://lw-58513.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
             <li><a href="https://lw-58513.herokuapp.com/page=4.php">ผู้จัดทำ</a></li>
+         </ul>
+
+       </div>
+        <div class="col-9" id="content"> 
+         <h4>
+           นครศรีธรรมราช
+         </h4>
+          <table widht="640" height="440" align="center">
+          <tr>
+           <td>
+             <img src="P1.png">
+           </td> 
+          </tr>
+         </table>
+            <h5>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นจังหวัดในประเทศไทย มีประชากรมากที่สุดในภาคใต้และมีขนาดพื้นที่ใหญ่เป็นอันดับ 2 ของภาคใต้ (รองจากสุราษฎร์ธานี) เป็นจังหวัดที่มีอำเภอมากที่สุดในภาคใต้ ห่างจากกรุงเทพมหานคร ประมาณ 780 กิโลเมตร มีจังหวัดที่อยู่ติดกันได้แก่ สงขลา พัทลุง ตรัง กระบี่ และสุราษฎร์ธานี
+            </h5>
+           <br></br>
+          <h4>
+           ที่ตั้งและอาณาเขต
+         </h4>
+          <h5>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;จังหวัดนครศรีธรรมราชตั้งอยู่ฝั่งตะวันออกของภาคใต้ โดยมีพื้นที่ใหญ่เป็นอันดับ 2 ของภาคใต้ โดยมีจังหวัดที่มีอาณาเขตติดกัน ดังนี้
+          </h5>
+          <h5>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้านเหนือ ติดกับจังหวัดสุราษฎร์ธานี และอ่าวไทย
+          </h5>
+          <h5>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้านใต้ ติดกับจังหวัดตรัง จังหวัดพัทลุง และจังหวัดสงขลา
+          </h5>
+          <h5>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้านตะวันออก ติดกับอ่าวไทย
+          </h5>
+          <h5>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้านตะวันตก ติดกับจังหวัดสุราษฎร์ธานี และจังหวัดกระบี่
+          </h5>
+          <h5>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;พื้นที่ที่ติดกับทะเลฝั่งอ่าวไทยของจังหวัดนครศรีธรรมราชนั้นมีชายฝั่งยาวประมาณ 225 กิโลเมตร และจังหวัดนครศรีธรรมราชมีเขาสูงที่สุดในภาคใต้ คือ เขาหลวง มีความสูงประมาณ 1,835 เมตร
+          </h5>
+          <br></br>
+          <h5 align="center">แผนที่จังหวัด</h5>
           
-          <li><a href="https://www.google.com/maps/place/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A/@8.5822981,99.2249105,9z/data=!3m1!4b1!4m5!3m4!1s0x30530115a2a6568b:0x34e30843bc5f02f2!8m2!3d8.4303975!4d99.9631219?hl=th" title=แผนที่จังหวัด><h6 align="center">แผนที่จังหวัด</h6></a></li>
-          </ul>
-         <table widht="300" height="400" align="center">
+          <table widht="300" height="400" align="center">
           <tr>
            <td>
              <img src="map.png">
            </td> 
           </tr>
          </table> 
-          <br>
+        <br>
           <h6 align="center">
             การปกครองส่วนภูมิภาค
           </h6>
@@ -157,45 +196,6 @@
               </tr>
             </tbody>
       </table>
-       </div>
-        <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
-         <h4>
-           นครศรีธรรมราช
-         </h4>
-          <table widht="640" height="440" align="center">
-          <tr>
-           <td>
-             <img src="P1.png">
-           </td> 
-          </tr>
-         </table>
-            <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นจังหวัดในประเทศไทย มีประชากรมากที่สุดในภาคใต้และมีขนาดพื้นที่ใหญ่เป็นอันดับ 2 ของภาคใต้ (รองจากสุราษฎร์ธานี) เป็นจังหวัดที่มีอำเภอมากที่สุดในภาคใต้ ห่างจากกรุงเทพมหานคร ประมาณ 780 กิโลเมตร มีจังหวัดที่อยู่ติดกันได้แก่ สงขลา พัทลุง ตรัง กระบี่ และสุราษฎร์ธานี
-            </h5>
-           <br></br>
-          <h4>
-           ที่ตั้งและอาณาเขต
-         </h4>
-          <h5>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;จังหวัดนครศรีธรรมราชตั้งอยู่ฝั่งตะวันออกของภาคใต้ โดยมีพื้นที่ใหญ่เป็นอันดับ 2 ของภาคใต้ โดยมีจังหวัดที่มีอาณาเขตติดกัน ดังนี้
-          </h5>
-          <h5>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้านเหนือ ติดกับจังหวัดสุราษฎร์ธานี และอ่าวไทย
-          </h5>
-          <h5>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้านใต้ ติดกับจังหวัดตรัง จังหวัดพัทลุง และจังหวัดสงขลา
-          </h5>
-          <h5>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้านตะวันออก ติดกับอ่าวไทย
-          </h5>
-          <h5>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้านตะวันตก ติดกับจังหวัดสุราษฎร์ธานี และจังหวัดกระบี่
-          </h5>
-          <h5>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;พื้นที่ที่ติดกับทะเลฝั่งอ่าวไทยของจังหวัดนครศรีธรรมราชนั้นมีชายฝั่งยาวประมาณ 225 กิโลเมตร และจังหวัดนครศรีธรรมราชมีเขาสูงที่สุดในภาคใต้ คือ เขาหลวง มีความสูงประมาณ 1,835 เมตร
-          </h5>
-          <br></br>
-         
       </div>
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
