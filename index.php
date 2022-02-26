@@ -11,9 +11,6 @@
     <title>Nakhon Si Thammarat Project</title>
 
     <style>
-      #body{
-        background-color: #000000;
-      }
       #header{
         height: 120px;
         background-color: #FFA500;
