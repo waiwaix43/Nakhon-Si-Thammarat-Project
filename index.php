@@ -18,7 +18,7 @@
         background-color: #FFA500;
       }
       #sidebar{
-        height: 0px;
+        height: 100;
         background-color: #f1f1f1;
         padding: 0px;
       }
