@@ -14,12 +14,12 @@
         background-color: #FFA500;
       }
       #sidebar{
-        height: 0px;
+        height: 100%;
         background-color: #f1f1f1;
         padding: 0px;
       }
       #content{
-        height: 3000px;
+        height: 0px;
         background-color: #F5F5F5;
       }
       ul {
