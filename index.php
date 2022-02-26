@@ -1,7 +1,5 @@
 <!doctype html>
 <html lang="en">
-  <body bgcolor="black">
-  </body>
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -49,7 +47,7 @@
     </style>
     
   </head>
-  <body style="background-color:#000000"> 
+  <body style="background-color:#ffd3b2"> 
     <div class="container">
       <div class="row">
         <div class="col-12" id="header">
