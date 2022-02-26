@@ -43,7 +43,7 @@
     </style>
     
   </head>
-  <body> 
+  <body style="background-color:#ffd3b2"> 
     <div class="container"> <!-- คอนเทนเนอร์ -->
       <div class="row">
         <div class="col-12" id="header"> <!-- เฮดเดอร์ -->
