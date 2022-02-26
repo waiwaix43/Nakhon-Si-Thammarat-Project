@@ -49,7 +49,7 @@
     </style>
     
   </head>
-  <body> 
+  <body style="background-color:#000000"> 
     <div class="container">
       <div class="row">
         <div class="col-12" id="header">
