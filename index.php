@@ -46,7 +46,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12" id="header">   
-          <table widht="1320" height="120" align="center">
+          <table widht="1300" height="120" align="center">
           <tr>
            <td>
              <img src="17.png">
