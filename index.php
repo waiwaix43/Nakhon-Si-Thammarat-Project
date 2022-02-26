@@ -40,7 +40,7 @@
       /* Change the link color on hover */
       li a:hover {
         background-color: #555;
-        color: #FFFFFF;
+        color: #000000;
       }
     </style>
     
