@@ -10,7 +10,6 @@
 
     <style>
       #header{
-        width: 100%;
         height: 120px;
         background-color: #FFA500;
       }
@@ -21,7 +20,6 @@
       }
       #content{
         height:100%;
-        width: 100%;
         background-color: #F5F5F5;
       }
       ul {
