@@ -52,10 +52,7 @@
              <img src="17.png">
            </td> 
           </tr>
-         </table> 
-          <h1>จังหวัดนครศรีธรรมราช</h1>
-          <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nakhon Si Thammarat</h3>
-       
+         </table>
         </div>
       </div>
       <div class="row">
