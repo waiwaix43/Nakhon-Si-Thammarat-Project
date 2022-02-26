@@ -44,7 +44,7 @@
     </style>
     
   </head>
-  <body bgcolor="black"> 
+  <body bgcolor="#000000"> 
     <div class="container"> <!-- คอนเทนเนอร์ -->
       <div class="row">
         <div class="col-12" id="header"> <!-- เฮดเดอร์ -->
