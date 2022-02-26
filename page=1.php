@@ -11,7 +11,6 @@
     <style>
       #header{
         height: 120px;
-        width: 100%;
         background-color: #FFA500;
       }
       #sidebar{
@@ -21,7 +20,6 @@
       }
       #content{
         height:100%;
-        width: 100%;
         background-color: #F5F5F5;
       }
 
