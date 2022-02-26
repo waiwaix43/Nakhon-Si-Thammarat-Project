@@ -72,7 +72,7 @@
          <h4>
            นครศรีธรรมราช
          </h4>
-          <table widht="640" height="440" align="center">
+          <table widht="1320" height="120" align="center">
           <tr>
            <td>
              <img src="P1.png">
