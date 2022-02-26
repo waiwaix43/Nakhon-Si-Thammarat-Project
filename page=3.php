@@ -46,8 +46,13 @@
     <div class="container"> <!-- คอนเทนเนอร์ -->
       <div class="row">
         <div class="col-12" id="header"> <!-- เฮดเดอร์ -->
-          <h1>จังหวัดนครศรีธรรมราช</h1>
-          <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nakhon Si Thammarat</h3>
+          <table widht="1300" height="120" align="center">
+          <tr>
+           <td>
+             <img src="17.png">
+           </td> 
+          </tr>
+         </table>
         </div>
       </div>
       <div class="row">
