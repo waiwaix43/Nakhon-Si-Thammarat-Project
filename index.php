@@ -11,6 +11,9 @@
     <title>Nakhon Si Thammarat Project</title>
 
     <style>
+      #body{
+        background-color: #000000;
+      }
       #header{
         height: 120px;
         background-color: #FFA500;
@@ -45,7 +48,7 @@
     </style>
     
   </head>
-  <body bgcolor="black"> 
+  <body> 
     <div class="container">
       <div class="row">
         <div class="col-12" id="header">
