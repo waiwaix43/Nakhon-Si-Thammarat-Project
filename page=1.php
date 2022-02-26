@@ -11,15 +11,18 @@
     <style>
       #header{
         height: 120px;
+        width: 100%;
         background-color: #FFA500;
       }
       #sidebar{
-        height: 0px;
+        height: 100%;
+        width: 100%;
         background-color: #f1f1f1;
         padding: 0px;
       }
       #content{
         height:100%;
+        width: 100%;
         background-color: #F5F5F5;
       }
 
