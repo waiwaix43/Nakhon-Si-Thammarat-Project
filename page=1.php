@@ -16,7 +16,6 @@
       }
       #sidebar{
         height: 100%;
-        width: 100%;
         background-color: #f1f1f1;
         padding: 0px;
       }
