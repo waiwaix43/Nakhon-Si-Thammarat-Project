@@ -45,16 +45,17 @@
   <body style="background-color:#ffd3b2"> 
     <div class="container">
       <div class="row">
-        <div class="col-12" id="header">
-          <h1>จังหวัดนครศรีธรรมราช</h1>
-          <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nakhon Si Thammarat</h3>
-          <table widht="300" height="400" align="center">
+        <div class="col-12" id="header">   
+          <table widht="1320" height="120" align="center">
           <tr>
            <td>
              <img src="17.png">
            </td> 
           </tr>
          </table> 
+          <h1>จังหวัดนครศรีธรรมราช</h1>
+          <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nakhon Si Thammarat</h3>
+       
         </div>
       </div>
       <div class="row">
