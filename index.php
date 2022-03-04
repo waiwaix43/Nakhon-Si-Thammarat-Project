@@ -38,7 +38,7 @@
         background-color: #F5F5F5;
       }
       #footer {
-        height: 160px;
+        height: 180px;
         padding: 50px;
         background-color: #DCDCDC;
         border-radius: 0 0 15px 15px;
