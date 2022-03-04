@@ -120,6 +120,7 @@
                <center><img src="P16.png" class="img-fluid rounded"></center>
           <br>
       </div>
+     </div>  
       <div class="row">
         <div class="col-12" id="footer">
           <!-- ฟุตเตอร์ -->
