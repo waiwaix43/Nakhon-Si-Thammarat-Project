@@ -25,7 +25,7 @@
         box-shadow: 6px 4px 8px 6px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       }
       #header {
-        height: 160px;
+        height: 120px;
         background-image: url("header.jpg");
         background-size:100%;
       }
@@ -73,7 +73,7 @@
         <div class="col-12" id="header">
           <!-- เฮดเดอร์ -->
           <center>
-             <img src="17.png" width="1308"class"img-fluid rounded">
+             <img src="17.png" class"img-fluid rounded">
           </center>
         </div>
       </div>
@@ -123,7 +123,7 @@
           <h5 align="center">แผนที่จังหวัด</h5>
           <br><br>
          <center>
-             <img src="map.png" width="300"class"img-fluid rounded">
+             <img src="map.png"class"img-fluid rounded">
          </center>
         <br><br>
           <h6 align="center">
