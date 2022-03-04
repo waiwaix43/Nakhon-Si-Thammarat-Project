@@ -122,9 +122,7 @@
           <br>
           <h5 align="center">แผนที่จังหวัด</h5>
           <br><br>
-         <center>
-             <img src="map.png"class"img-fluid rounded">
-         </center>
+         <center><img src="map.png" class="img-fluid rounded"></center>
         <br><br>
           <h6 align="center">
             การปกครองส่วนภูมิภาค
