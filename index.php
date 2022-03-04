@@ -1,16 +1,28 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"/>
     <title>Nakhon Si Thammarat Project</title>
 
     <style>
+      body {
+        font-family: "Sarabun";
+        background-color: #fdf2e7;
+      }
+       #container {
+        box-shadow: 6px 4px 8px 6px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      }
       #header{
         height: 120px;
+        background-image: url("header.jpg");
+        background-size:100%;
         background-color: #FFA500;
       }
       #sidebar{
@@ -18,10 +30,10 @@
         padding: 0px;
       }
       #content{
-        height:100%;
+        padding: 10px;
         background-color: #F5F5F5;
       }
-      ul {
+     ul {
         list-style-type: none;
         margin: 0;
         padding: 0;
@@ -39,12 +51,15 @@
         background-color: #555;
         color:#FFFFFF;
       }
+      p{
+        margin-top: 10px;
     </style>
-    
-  </head>
+   </head>
+  
   <body style="background-color:#ffd3b2"> 
     <div class="container">
-      <div class="row">
+      <div id="container">
+        <div class="row">
         <div class="col-12" id="header">   
        <br><br>
           <center>
@@ -54,7 +69,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-3" id="sidebar"> 
+        <div class="col-2" id="sidebar"> 
           <ul>
             <li><a href="https://lw-58513.herokuapp.com/">หน้าแรก</a></li>
             <li><a href="https://lw-58513.herokuapp.com/page=1.php">แหล่งท่องเที่ยว</a></li> 
@@ -62,9 +77,8 @@
             <li><a href="https://lw-58513.herokuapp.com/page=3.php">อาหารประจำท้องถิ่น</a></li> 
             <li><a href="https://lw-58513.herokuapp.com/page=4.php">ผู้จัดทำ</a></li>
          </ul>
-
        </div>
-        <div class="col-9" id="content"> 
+        <div class="col-10" id="content"> 
          <h4>
            นครศรีธรรมราช
          </h4>
@@ -201,8 +215,14 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ประชากร นครศรีธรรมราช มีประมาณ 1.56 ล้าน มีรายได้เฉลี่ยต่อคนต่อปี 45,598 บาท
           </h5>
       </div>
-
+     </div>
+    </div>
+   </div>
     <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+        <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
