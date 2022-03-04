@@ -121,7 +121,7 @@
           <br>
           <h5 align="center">แผนที่จังหวัด</h5>
           <br><br>
-         <center><img src="map.phg" class="img-fluid rounded"></center>
+         <center><img src="map.png" class="img-fluid rounded"></center>
         <br><br>
           <h6 align="center">
             การปกครองส่วนภูมิภาค
@@ -230,7 +230,9 @@
             <p>โรงเรียนหล่มสักวิทยาคม</p>
           </center>
         </div>
-    </div>
+       </div>
+     </div>
+   </div>   
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
