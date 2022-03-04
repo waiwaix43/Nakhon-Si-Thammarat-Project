@@ -46,13 +46,11 @@
     <div class="container">
       <div class="row">
         <div class="col-12" id="header">   
-          <table widht="1300" height="120" align="center">
-          <tr>
-           <td>
-             <img src="17.png">
-           </td> 
-          </tr>
-         </table>
+       <br><br>
+          <center>
+             <img src="17.png" width="1308"class"img-fluid rounded">
+          </center>
+       <br><br>
         </div>
       </div>
       <div class="row">
@@ -70,13 +68,11 @@
          <h4>
            นครศรีธรรมราช
          </h4>
-          <table widht="100%" height="100%" align="center" >
-          <tr>
-           <td>
-             <img src="P1.png">
-           </td> 
-          </tr>
-         </table>
+          <br><br>
+       <center>
+             <img src="P1.png" width="640"class"img-fluid rounded">
+       </center>
+          <br><br>
             <h5>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นจังหวัดในประเทศไทย มีประชากรมากที่สุดในภาคใต้และมีขนาดพื้นที่ใหญ่เป็นอันดับ 2 ของภาคใต้ (รองจากสุราษฎร์ธานี) เป็นจังหวัดที่มีอำเภอมากที่สุดในภาคใต้ ห่างจากกรุงเทพมหานคร ประมาณ 780 กิโลเมตร มีจังหวัดที่อยู่ติดกันได้แก่ สงขลา พัทลุง ตรัง กระบี่ และสุราษฎร์ธานี
             </h5>
@@ -102,17 +98,13 @@
           <h5>
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;พื้นที่ที่ติดกับทะเลฝั่งอ่าวไทยของจังหวัดนครศรีธรรมราชนั้นมีชายฝั่งยาวประมาณ 225 กิโลเมตร และจังหวัดนครศรีธรรมราชมีเขาสูงที่สุดในภาคใต้ คือ เขาหลวง มีความสูงประมาณ 1,835 เมตร
           </h5>
-          <br></br>
+          <br>
           <h5 align="center">แผนที่จังหวัด</h5>
-          
-          <table widht="300" height="400" align="center">
-          <tr>
-           <td>
-             <img src="map.png">
-           </td> 
-          </tr>
-         </table> 
-        <br>
+          <br><br>
+         <center>
+             <img src="map.png" width="300"class"img-fluid rounded">
+         </center>
+        <br><br>
           <h6 align="center">
             การปกครองส่วนภูมิภาค
           </h6>
