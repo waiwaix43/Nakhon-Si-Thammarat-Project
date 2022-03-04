@@ -26,7 +26,7 @@
       }
       #header {
         height: 160px;
-        background-image: url("header.jpg");
+        background-image: url("P18.png");
         background-size:100%;
       }
       #sidebar {
@@ -73,9 +73,6 @@
       <div class="row">
         <div class="col-12" id="header">
           <!-- เฮดเดอร์ -->
-          <center>
-             <img src="P18.png" class"img-fluid rounded">
-          </center>
         </div>
       </div>
       <div class="row">
