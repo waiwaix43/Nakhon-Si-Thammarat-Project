@@ -26,7 +26,7 @@
       }
       #header {
         height: 160px;
-        background-image: url("P18.png");
+        background-image: url("P1.jpg");
         background-size:100%;
       }
       #sidebar {
@@ -91,7 +91,7 @@
           <h4>
            นครศรีธรรมราช
          </h4>
-          <center><img src="P1.png" class="img-fluid rounded"></center>
+          <center><img src="P1.jpg" class="img-fluid rounded"></center>
           <br>
          <h5>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นจังหวัดในประเทศไทย มีประชากรมากที่สุดในภาคใต้และมีขนาดพื้นที่ใหญ่เป็นอันดับ 2 ของภาคใต้ (รองจากสุราษฎร์ธานี) เป็นจังหวัดที่มีอำเภอมากที่สุดในภาคใต้ ห่างจากกรุงเทพมหานคร ประมาณ 780 กิโลเมตร มีจังหวัดที่อยู่ติดกันได้แก่ สงขลา พัทลุง ตรัง กระบี่ และสุราษฎร์ธานี
@@ -121,7 +121,7 @@
           <br>
           <h5 align="center">แผนที่จังหวัด</h5>
           <br><br>
-         <center><img src="map.png" class="img-fluid rounded"></center>
+         <center><img src="map.jpg" class="img-fluid rounded"></center>
         <br><br>
           <h6 align="center">
             การปกครองส่วนภูมิภาค
